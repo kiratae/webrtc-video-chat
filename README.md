@@ -1,8 +1,6 @@
 WebRTC & SignalR Video Chat
 =================
 
-[Live Demo](http://mg-webrtc.azurewebsites.net)
-
 A demo project for playing around with Peer-to-Peer audio/video connections using WebRTC.  Signaling and management of users and active connections is handled by SignalR.
 
 At the time of writing this, the application is working in the following browser releases:
